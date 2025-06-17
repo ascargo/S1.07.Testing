@@ -26,7 +26,7 @@ Make sure you have the following installed:
 ## 🛠️ Installation
 
 1. Clone this repository:
-   git clone 
+   git clone https://github.com/ascargo/S1.07.Testing.git
    cd your-repo
    
 2. Install project dependencies:
