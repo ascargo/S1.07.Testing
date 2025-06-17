@@ -4,7 +4,7 @@ use AsierWC\N1E2\Grading;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-Class GradingTest extends TestCase {
+class GradingTest extends TestCase {
     public function testReturnsFirstFor60Plus() {
         $grading = new Grading();
         $this->assertEquals("First Class", $grading->getGrade(75));
