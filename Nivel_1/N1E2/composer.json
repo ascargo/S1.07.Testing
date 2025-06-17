@@ -1,0 +1,17 @@
+{
+    "name": "asier.w.c/n1e2",
+    "autoload": {
+        "psr-4": {
+            "AsierWC\\N1E2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asier Carrasco González",
+            "email": "axiercarrasco@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.2"
+    }
+}
